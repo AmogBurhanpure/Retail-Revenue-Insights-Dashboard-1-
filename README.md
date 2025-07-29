@@ -1,4 +1,3 @@
-Retail Revenue Insights Dashboard 📊
 
 This Power BI dashboard provides interactive insights into retail revenue performance, sales trends, and key performance indicators (KPIs). It helps stakeholders make data-driven decisions by visualizing data in a clear and intuitive format.
 
@@ -15,6 +14,9 @@ The dashboard includes:
 
  Power BI file containing the full interactive dashboard.
 
+
+
+  
  How to Use
 
 1. Download the `.pbix` file from this repository.
